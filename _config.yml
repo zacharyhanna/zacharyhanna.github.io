@@ -1,3 +1,8 @@
+title: Zachary R. Hanna
+email: zachanna@berkeley.edu
+url: "https://zrhanna.github.io"
 name: Zachary R. Hanna
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Build settings
+markdown: kramdown
+theme: minima
