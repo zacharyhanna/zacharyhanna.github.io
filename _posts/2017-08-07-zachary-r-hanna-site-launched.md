@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zachary R. Hanna Launches Site"
+title: "Launching Site"
 date: 2017-08-07
 ---
 
