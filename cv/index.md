@@ -14,7 +14,7 @@ zachanna@berkeley.edu
   				
 				
 ## Education
-* Ph.D., Integrative Biology, University of California, Berkeley, Berkeley, California, U.S.A. in progress  
+* Ph.D., Integrative Biology, University of California, Berkeley, Berkeley, California, U.S.A. In progress  
 * BS, Molecular Environmental Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2008  
 
 ## Professional Employment
