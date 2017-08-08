@@ -6,13 +6,13 @@ title: CV
 				<div itemscope itemtype="http://data-vocabulary.org/Person">--->
   
 ## Zachary R. Hanna
-Ph.D. Student
-Museum of Vertebrate Zoology
-University of California, Berkeley
-3101 Valley Life Sciences Bldg
-University of California
-Berkeley, CA 94720-3160 U.S.A.
-zachanna@berkeley.edu
+Ph.D. Student  
+Museum of Vertebrate Zoology  
+University of California, Berkeley  
+3101 Valley Life Sciences Bldg  
+University of California  
+Berkeley, CA 94720-3160 U.S.A.  
+zachanna@berkeley.edu  
   				
 				
 ## Education
