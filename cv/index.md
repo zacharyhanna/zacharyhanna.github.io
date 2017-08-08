@@ -22,10 +22,10 @@ zachanna@berkeley.edu
 * **Hanna ZR.**, Runckel C., Fuchs J., DeRisi JL., Mindell DP., Hemert CV., Handel CM., Dumbacher JP. 2015. Isolation of a Complete Circular Virus Genome Sequence from an Alaskan Black-Capped Chickadee (*Poecile atricapillus*) Gastrointestinal Tract Sample. *Genome Announcements* 3:e01081-15. DOI: 10.1128/genomeA.01081-15. [Available here](http://genomea.asm.org/content/3/5/e01081-15){:target="_blank"} or [Download PDF](../files){:target="_blank"}
 
 ### Presentations
-**Hanna ZR**, Dumbacher JP, Wall JD, Bowie RCK. 2017 Genomics of the Spotted and Barred Owls. Presented by Z.R. Hanna at the MVZ Lunch Seminar - Topics in Evolutionary Biology, Museum of Vertebrate Zoology, UC Berkeley
-**Hanna ZR**, Dumbacher JP, Wall J. 2016. Extent of Introgression Detected in Spotted Owls and Western Barred Owls. Presented by Z.R. Hanna at the North American Ornithological Conference, Washington, D.C.
-**Hanna ZR**, Dumbacher JP, Henderson JB. 2015. Genome of the northern spotted owl and its use in studying the genetic relationships of barred and spotted owls. Presented by Z.R. Hanna at The Wildlife Society Western Section annual meeting, Santa Rosa, CA. 
-**Hanna ZR**, Bowie RCK, Cicero C. 2008. Phylogeography of the Orange-crowned Warbler (*Vermivora celata*). Presented by Z.R. Hanna at the American Ornithologists Union conference, Portland, OR. 
+* **Hanna ZR**, Dumbacher JP, Wall JD, Bowie RCK. 2017 Genomics of the Spotted and Barred Owls. Presented by Z.R. Hanna at the MVZ Lunch Seminar - Topics in Evolutionary Biology, Museum of Vertebrate Zoology, UC Berkeley, California
+* **Hanna ZR**, Dumbacher JP, Wall J. 2016. Extent of Introgression Detected in Spotted Owls and Western Barred Owls. Presented by Z.R. Hanna at the North American Ornithological Conference, Washington, D.C.
+* **Hanna ZR**, Dumbacher JP, Henderson JB. 2015. Genome of the northern spotted owl and its use in studying the genetic relationships of barred and spotted owls. Presented by Z.R. Hanna at The Wildlife Society Western Section annual meeting, Santa Rosa, California
+* **Hanna ZR**, Bowie RCK, Cicero C. 2008. Phylogeography of the Orange-crowned Warbler (*Vermivora celata*). Presented by Z.R. Hanna at the American Ornithologists Union conference, Portland, Oregon
 
 ### Professional Employment
 * Graduate Student Instructor, Ornithology Laboratory and Field (IB 174), UC Berkeley. January-May 2017  	
