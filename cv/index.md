@@ -22,14 +22,7 @@ BS, Molecular Environmental Biology, University of California, Berkeley, Berkele
   
 
 ## Professional Employment
-			
+Graduate Student Instructor, Ornithology January-May 2017  			
 				
 ## Presentations and Publications
-Bowie RCK., Feldheim KA., Hanna ZR., Sellas AB., Cicero C. 2017. Development of Polymorphic Tetranucleotide Microsatellite Markers for New World Warblers (Aves: Passeriformes: Parulidae) with Broad Cross-species Utility. The Wilson Journal of Ornithology 129:401–407. DOI: 10.1676/16-110.1.</p>
-				
-				<h2>Professional Activities</h2>
-				<ul class="list-unstyled">
-					<li>Graduate Student Instructor, Ornithology January-May 2017</li>
-				</ul>
-				
-</div><!-- /.cv -->
+Bowie RCK., Feldheim KA., **Hanna ZR.**, Sellas AB., Cicero C. 2017. Development of Polymorphic Tetranucleotide Microsatellite Markers for New World Warblers (Aves: Passeriformes: Parulidae) with Broad Cross-species Utility. The Wilson Journal of Ornithology 129:401–407. DOI: 10.1676/16-110.1. Available at: <http://www.bioone.org/doi/abs/10.1676/16-110.1>; [Download PDF]
