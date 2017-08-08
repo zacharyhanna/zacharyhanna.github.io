@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan's Blog
+title: Blog by Zach Hanna
 ---
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
@@ -10,4 +10,3 @@ title: Hank Quinlan's Blog
 	  {% endfor %}
 	</ul>
   
-# Blog by Zach Hanna
