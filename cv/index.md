@@ -38,7 +38,7 @@ zachanna@berkeley.edu
 * Environmental Eco-label Research Technician, Department of Environmental Science, Policy, and Management, UC Berkeley. June-September 2004
 
 ### Grants, Fellowships, and Awards
-* 2016. American Ornithologists’ Union Travel Award. $100
+- 2016. American Ornithologists’ Union Travel Award. $100
 * 2016. Museum of Vertebrate Zoology Travel Funds Award. $500
 * 2016. Graduate Student Conference Travel Award, Integrative Biology, UC Berkeley. $250
 * 2016. Summer Research Award, Integrative Biology, UC Berkeley. $1,750
