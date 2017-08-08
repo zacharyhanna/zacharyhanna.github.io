@@ -2,8 +2,6 @@
 layout: default
 title: CV
 ---
-<!---<a href="/files/Hanna_ZR_CV_2017.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
-				<div itemscope itemtype="http://data-vocabulary.org/Person">--->
   
 ## Zachary R. Hanna
 Ph.D. Student  
