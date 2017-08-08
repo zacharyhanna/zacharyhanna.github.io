@@ -40,25 +40,25 @@ zachanna@berkeley.edu
 ### Grants, Fellowships, and Awards
 * 2016\. American Ornithologists’ Union Travel Award. $100
 * 2016\. Museum of Vertebrate Zoology Travel Funds Award. $500
-* 2016. Graduate Student Conference Travel Award, Integrative Biology, UC Berkeley. $250
-* 2016. Summer Research Award, Integrative Biology, UC Berkeley. $1,750
-* 2016. Graduate Student Research Funds Award, Integrative Biology, UC Berkeley. $300
-* 2016. Joseph Mailiard Fellowship, Museum of Vertebrate Zoology, UC Berkeley. One-semester fellowship that covered my tuition and fees and provided a stipend of $15,000.
-* 2016. Ned K. Johnson Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $1000
-* 2016. Doctoral Dissertation Improvement Grant, National Science Foundation. $20,410
-* 2015. Summer Research Award, Integrative Biology, UC Berkeley. $3,990
-* 2015. Graduate Student Research Funds, Integrative Biology, UC Berkeley. $300
-* 2015. Martens Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $1,500
-* 2014. Graduate Student Research Funds, Integrative Biology, UC Berkeley. $300
-* 2014. Ned K. Johnson Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $1,000
-* 2013. Outstanding Graduate Student Instructor Award, UC Berkeley. $250
-* 2013. Graduate Student Research Funds, Integrative Biology, UC Berkeley. $300
-* 2013. Louise Kellogg Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $2,000
-* 2012. Graduate Division Summer Grant, UC Berkeley. Grant covered enrollment fees and provided a stipend of $3,500.
-* 2012. Louise Kellogg Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $2,000
-* 2012. Jerry O. Wolff Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $2,000
+* 2016\. Graduate Student Conference Travel Award, Integrative Biology, UC Berkeley. $250
+* 2016\. Summer Research Award, Integrative Biology, UC Berkeley. $1,750
+* 2016\. Graduate Student Research Funds Award, Integrative Biology, UC Berkeley. $300
+* 2016\. Joseph Mailiard Fellowship, Museum of Vertebrate Zoology, UC Berkeley. One-semester fellowship that covered my tuition and fees and provided a stipend of $15,000.
+* 2016\. Ned K. Johnson Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $1000
+* 2016\. Doctoral Dissertation Improvement Grant, National Science Foundation. $20,410
+* 2015\. Summer Research Award, Integrative Biology, UC Berkeley. $3,990
+* 2015\. Graduate Student Research Funds, Integrative Biology, UC Berkeley. $300
+* 2015\. Martens Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $1,500
+* 2014\. Graduate Student Research Funds, Integrative Biology, UC Berkeley. $300
+* 2014\. Ned K. Johnson Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $1,000
+* 2013\. Outstanding Graduate Student Instructor Award, UC Berkeley. $250
+* 2013\. Graduate Student Research Funds, Integrative Biology, UC Berkeley. $300
+* 2013\. Louise Kellogg Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $2,000
+* 2012\. Graduate Division Summer Grant, UC Berkeley. Grant covered enrollment fees and provided a stipend of $3,500.
+* 2012\. Louise Kellogg Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $2,000
+* 2012\. Jerry O. Wolff Research Fund Award, Museum of Vertebrate Zoology, UC Berkeley. $2,000
 * 2012-2015. Graduate Research Fellowship, National Science Foundation. 3 year fellowship that covered my tuition and fees and provided a stipend of $32,000-$34,000 / year.
-* 2008. American Ornithologists’ Union Travel Award. $350
-* 2007. Sponsored Projects for Undergraduate Research Grant, College of Natural Resources, UC Berkeley. $2000
-* 2006. Fellowship with the Exploring California Biodiversity Project, UC Berkeley. Prepared skins and skeletons for a teaching collection used for K-12 education. $800
-* 2000. Eagle Scout, Boy Scouts of America.
+* 2008\. American Ornithologists’ Union Travel Award. $350
+* 2007\. Sponsored Projects for Undergraduate Research Grant, College of Natural Resources, UC Berkeley. $2000
+* 2006\. Fellowship with the Exploring California Biodiversity Project, UC Berkeley. Prepared skins and skeletons for a teaching collection used for K-12 education. $800
+* 2000\. Eagle Scout, Boy Scouts of America.
