@@ -37,6 +37,28 @@ zachanna@berkeley.edu
 * Laboratory Research Technician, Department of Environmental Science, Policy, and Management, UC Berkeley. 2005
 * Environmental Eco-label Research Technician, Department of Environmental Science, Policy, and Management, UC Berkeley. June-September 2004
 
+### Expedition and Field Work
+* 2013-2015. Barred Owl specimen collection for Ph.D. research, Northern California.
+* 2014 June. Grinnell Resurvey Project, Museum of Vertebrate Zoology, UC Berkeley. Avian specimen collections in Lassen National Forest, California.
+* 2013 August. Mexico, Chiapas. Avian and herpetofauna collections in collaboration between the Museum of Vertebrate Zoology and the Museo de Zoología "Alfonso L. Herrera" (MZFC), Mexico.
+* 2012 June. Mexico, Chiapas. Avian and herpetofauna collections in collaboration between the Museum of Vertebrate Zoology and the Museo de Zoología "Alfonso L. Herrera" (MZFC), Mexico. 
+* 2011 September- November. Papua New Guinea, Milne Bay Islands. Avian collections and metagenomic collections with Dr. John Dumbacher, California Academy of Sciences.
+* 2011 May. Guatemala. Avian, mammal, and herpetofauna collections in collaboration between the MVZ and the Museo de Historia Natural de la Universidad de San Carlos (MUSHNAT), Guatemala.
+* 2009 June. Grinnell Resurvey Project, Museum of Vertebrate Zoology, UC Berkeley. Collected and prepared avian specimens and data under Dr. Carla Cicero.
+* 2009 April. Guatemala. Avian, mammal, and herpetofauna collections in collaboration between the MVZ and the MUSHNAT.
+* 2009 January. Guatemala. Avian, mammal, and herpetofauna collections in collaboration between the MVZ and the MUSHNAT.
+* 2008 May-August. Grinnell Resurvey Project, Museum of Vertebrate Zoology, UC Berkeley. Avian and mammal collections with Dr. Carla Cicero.
+* 2008 May. Orange-crowned Warbler collections in southern California for phylogeography project.
+* 2007 June-August. Research Experience for Undergraduates (REU) Summer Research in Peru. I worked as a field assistant in Peru for Dr. Christopher Witt as part of a National Science Foundation Research Experience for Undergraduates supplement to a hummingbird phylogeography grant through UC Berkeley 	under Prof. Jimmy McGuire and Prof. Robert Dudley.
+* 2007 May. Grinnell Resurvey Project, Museum of Vertebrate Zoology, UC Berkeley. Avian specimen collections with Dr. Carla Cicero.
+* 2007 May. Orange-crowned Warbler collections at Hastings Natural History Reservation, California with Prof. Rauri Bowie for phylogeography project.
+* 2006 May-September. Grinnell Resurvey Project, Museum of Vertebrate Zoology, UC Berkeley. Collected and prepared avian, mammal, and herpetofaunal specimens and data under Dr. Carla Cicero. 
+* 2006 August-December. UC Berkeley field course in the Biology and Geomorphology of Tropical Islands, Moorea, French Polynesia.
+* 2006 February. Salamander field work with Tom Devitt the lab of Prof. Jimmy McGuire, UC Berkeley.
+* 2005 October-December. UC Education Abroad Tropical Biology & Conservation Field Course, Monteverde Institute, Costa Rica.
+* 2005 June-August. UC Berkeley Summer Field Program at Baker Forest. 
+* 2004 June-August. Sunflower moth caterpillars and parasitoids lab and field work with Caterina Nerney in the lab of Prof. Stephen C. Welter, UC Berkeley.
+
 ### Grants, Fellowships, and Awards
 * 2016\. American Ornithologists’ Union Travel Award
 * 2016\. Museum of Vertebrate Zoology Travel Funds Award
