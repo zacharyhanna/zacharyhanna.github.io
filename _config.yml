@@ -6,5 +6,6 @@ permalink: /blog/:year/:month/:day/:title
 # Build settings
 markdown: kramdown
 
-
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
