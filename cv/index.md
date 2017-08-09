@@ -26,8 +26,11 @@ zachanna@berkeley.edu
 
 ### Presentations
 * **Hanna ZR**, Dumbacher JP, Wall JD, Bowie RCK. 2017 Genomics of the Spotted and Barred Owls. Presented by Z.R. Hanna at the MVZ Lunch Seminar - Topics in Evolutionary Biology, Museum of Vertebrate Zoology, UC Berkeley, California
+  
 * **Hanna ZR**, Dumbacher JP, Wall J. 2016. Extent of Introgression Detected in Spotted Owls and Western Barred Owls. Presented by Z.R. Hanna at the North American Ornithological Conference, Washington, D.C.
+  
 * **Hanna ZR**, Dumbacher JP, Henderson JB. 2015. Genome of the northern spotted owl and its use in studying the genetic relationships of barred and spotted owls. Presented by Z.R. Hanna at The Wildlife Society Western Section annual meeting, Santa Rosa, California
+  
 * **Hanna ZR**, Bowie RCK, Cicero C. 2008. Phylogeography of the Orange-crowned Warbler (*Vermivora celata*). Presented by Z.R. Hanna at the American Ornithologists Union conference, Portland, Oregon
 
 ### Professional Employment
