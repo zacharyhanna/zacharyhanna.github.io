@@ -17,7 +17,7 @@ zachanna@berkeley.edu
 * BS, Molecular Environmental Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2008  
 
 ### Publications and Datasets
-* **Hanna ZR.**, Henderson JB., Wall JD., Emerling CA., Fuchs J., Runckel C., Mindell DP., Bowie RCK., DeRisi JL., Dumbacher JP. 2017. Northern spotted owl (_Strix occidentalis caurina_) genome: divergence with the barred owl (_Strix varia_) and characterization of light-associated genes. Genome Biology and Evolution. DOI: 10.1093/gbe/evx158. [Available here](https://academic.oup.com/gbe/article-abstract/doi/10.1093/gbe/evx158/4091607/Northern-spotted-owl-Strix-occidentalis-caurina){:target="_blank"}
+* **Hanna ZR.**, Henderson JB., Wall JD., Emerling CA., Fuchs J., Runckel C., Mindell DP., Bowie RCK., DeRisi JL., Dumbacher JP. 2017. Northern spotted owl (_Strix occidentalis caurina_) genome: divergence with the barred owl (_Strix varia_) and characterization of light-associated genes. _Genome Biology and Evolution_. DOI: 10.1093/gbe/evx158. [Available here](https://academic.oup.com/gbe/article-abstract/doi/10.1093/gbe/evx158/4091607/Northern-spotted-owl-Strix-occidentalis-caurina){:target="_blank"}
   
 * Bowie RCK., Feldheim KA., **Hanna ZR.**, Sellas AB., Cicero C. 2017. Development of Polymorphic Tetranucleotide Microsatellite Markers for New World Warblers (Aves: Passeriformes: Parulidae) with Broad Cross-species Utility. *The Wilson Journal of Ornithology* 129:401–407. DOI: 10.1676/16-110.1. [Available here](http://www.bioone.org/doi/abs/10.1676/16-110.1){:target="_blank"} or [Download PDF](../files/Bowie_et_al_2017_Development_of_Polymorphic_Tetranucleotide_Microsa.pdf){:target="_blank"}
   
