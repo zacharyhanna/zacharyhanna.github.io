@@ -38,6 +38,9 @@ zachanna@berkeley.edu
   
 * **Hanna ZR**, Bowie RCK, Cicero C. 2008. Phylogeography of the Orange-crowned Warbler (*Vermivora celata*). Presented by Z.R. Hanna at the American Ornithologists Union conference, Portland, Oregon
 
+### Media Articles About Research
+* U.S. Fish and Wildlife Service. [Barred Owl Study Update](https://www.fws.gov/oregonfwo/articles.cfm?id=149489616)
+
 ### Professional Employment
 * Graduate Student Instructor, Ornithology Laboratory and Field (IB 174), UC Berkeley. January-May 2017  	
 * Graduate Student Instructor, Natural History of the Vertebrates Laboratory and Field (IB 104), UC Berkeley. January-May 2016  
