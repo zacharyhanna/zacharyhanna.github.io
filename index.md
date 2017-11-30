@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zachary R. Hanna
+title: Home - Zachary R. Hanna
 ---
 Welcome!
 
