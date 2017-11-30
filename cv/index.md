@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-### Zachary R. Hanna, Ph.D.
+_Zachary R. Hanna, Ph.D._
 Museum of Vertebrate Zoology  
 University of California, Berkeley  
 3101 Valley Life Sciences Bldg  
