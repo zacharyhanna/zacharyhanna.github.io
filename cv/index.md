@@ -2,8 +2,7 @@
 layout: default
 title: CV
 ---
-### Zachary R. Hanna
-Ph.D. Student  
+### Zachary R. Hanna, Ph.D.
 Museum of Vertebrate Zoology  
 University of California, Berkeley  
 3101 Valley Life Sciences Bldg  
@@ -12,7 +11,7 @@ Berkeley, CA 94720-3160 U.S.A.
 zachanna@berkeley.edu  
 
 ### Education
-* Ph.D., Integrative Biology, University of California, Berkeley, Berkeley, California, U.S.A. In progress  
+* Ph.D., Integrative Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2017  
   
 * BS, Molecular Environmental Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2008  
 
@@ -37,9 +36,6 @@ zachanna@berkeley.edu
 * **Hanna ZR**, Dumbacher JP, Henderson JB. 2015. Genome of the northern spotted owl and its use in studying the genetic relationships of barred and spotted owls. Presented by Z.R. Hanna at The Wildlife Society Western Section annual meeting, Santa Rosa, California
   
 * **Hanna ZR**, Bowie RCK, Cicero C. 2008. Phylogeography of the Orange-crowned Warbler (*Vermivora celata*). Presented by Z.R. Hanna at the American Ornithologists Union conference, Portland, Oregon
-
-### Media Articles About Research
-* U.S. Fish and Wildlife Service. [Barred Owl Study Update](https://www.fws.gov/oregonfwo/articles.cfm?id=149489616)
 
 ### Professional Employment
 * Graduate Student Instructor, Ornithology Laboratory and Field (IB 174), UC Berkeley. January-May 2017  	
