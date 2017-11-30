@@ -5,12 +5,16 @@ body {
 h1 {
     display: inline-block;
 }
+nav {
+    float:right;
+    display: inline-block;
+}
 nav ul, footer ul {
     font-family:'Verdana', 'Arial', 'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    display: inline-block;
+    display: inline;
 }
 nav ul li, footer ul li {
     display: inline-block;
