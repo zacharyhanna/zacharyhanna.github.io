@@ -10,4 +10,9 @@ I have cultivated my academic career in close association with the specimen coll
 
 ### Ph.D. Research Statement 
 Many species’ ranges are changing dramatically in response to global climate change and human alterations to habitat. Such range changes can bring closely related, allopatric taxa into secondary contact where they hybridize. This provides unique opportunities to study fundamental evolutionary processes in action, including speciation, adaptive hybridization, and the compatibility of various genomic elements and architectures.  
-I am investigating the secondary contact and hybridization of Strix owls in the western United States (U.S.). The Barred Owl (*Strix varia*) is an invasive species from the eastern U.S. that has become broadly sympatric with the resident Spotted Owl (*Strix occidentalis*) along the Pacific coast in the last 50 years. This system is ideal for investigating speciation processes because it is a natural, dynamic, and ongoing invasion with secondary contact that can be studied across space and time. 
+I am investigating the secondary contact and hybridization of Strix owls in the western United States (U.S.). The Barred Owl (*Strix varia*) is an invasive species from the eastern U.S. that has become broadly sympatric with the resident Spotted Owl (*Strix occidentalis*) along the Pacific coast in the last 50 years. This system is ideal for investigating speciation processes because it is a natural, dynamic, and ongoing invasion with secondary contact that can be studied across space and time.  
+
+### Links to Articles Related to Research
+* [Genetic mapping of Northern Spotted Owls](https://goldengateaudubon.org/blog-posts/genetic-mapping-spotted-owls/)
+* Science Newsline. [California Academy of Sciences Assembles Genome of Threatened Northern Spotted Owl](http://www.sciencenewsline.com/news/2017090517530008.html)  
+* U.S. Fish and Wildlife Service. [Barred Owl Study Update](https://www.fws.gov/oregonfwo/articles.cfm?id=149489616)  
