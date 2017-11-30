@@ -29,6 +29,7 @@ h1 {
     font-family:'Verdana', 'Arial', 'Helvetica', 'Sans-Serif';
 }
 p {
+    text-indent: 30px;
     color: #333;
 }
 li {
