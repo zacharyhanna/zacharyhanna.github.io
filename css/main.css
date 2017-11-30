@@ -3,16 +3,17 @@ body {
     width: 70%;
 }
 h1 {
-    display: inline;
+    display: inline-block;
 }
 nav ul, footer ul {
     font-family:'Verdana', 'Arial', 'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    display: inline-block;
 }
 nav ul li, footer ul li {
-    display: inline;
+    display: inline-block;
     margin-right: 20px;
 }
 a {
