@@ -2,12 +2,6 @@
 layout: default
 title: Zachary R. Hanna
 ---
-<div style="text-align: right">
-Zachary R. Hanna<br />
-Museum of Vertebrate Zoology<br />
-Department of Integrative Biology<br />
-University of California, Berkeley
-</div>
 Welcome!
 
 ### Spotted and Barred Owl Research  
