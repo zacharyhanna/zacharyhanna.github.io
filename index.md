@@ -2,7 +2,7 @@
 layout: default
 title: Home - Zachary R. Hanna
 ---
-#### Welcome!
+## Welcome!
 
 ### Spotted and Barred Owl Research  
 Many species’ ranges are changing dramatically in response to global climate change and human alterations to habitat. Such range changes can bring closely related, allopatric taxa into secondary contact where they hybridize. This provides unique opportunities to study fundamental evolutionary processes in action, including speciation, adaptive hybridization, and the compatibility of various genomic elements and architectures.  
