@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: CV - Zachary R. Hanna
 ---
 **Zachary R. Hanna, Ph.D.**  
 Museum of Vertebrate Zoology  
