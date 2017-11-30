@@ -2,12 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-h1 {
+h1, nav {
     display: inline-block;
 }
 nav {
     float:right;
-    display: inline-block;
 }
 nav ul, footer ul {
     font-family:'Verdana', 'Arial', 'Helvetica', 'Sans-Serif';
