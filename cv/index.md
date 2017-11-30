@@ -8,7 +8,7 @@ University of California, Berkeley
 3101 Valley Life Sciences Bldg  
 University of California  
 Berkeley, CA 94720-3160 U.S.A.  
-zachanna@berkeley.edu  
+[Contact me](mailto:zachanna@berkeley.edu)  
 
 ### Education
 * Ph.D., Integrative Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2017  
