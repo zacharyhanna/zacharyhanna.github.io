@@ -3,10 +3,10 @@ layout: default
 title: Zachary R. Hanna
 ---
 <div style="text-align: right">
-Zachary R. Hanna  
-Museum of Vertebrate Zoology  
-Department of Integrative Biology  
-University of California, Berkeley  
+Zachary R. Hanna<br />
+Museum of Vertebrate Zoology<br />
+Department of Integrative Biology<br />
+University of California, Berkeley
 </div>
 Welcome!
 
