@@ -8,17 +8,16 @@ University of California, Berkeley
 3101 Valley Life Sciences Bldg  
 University of California  
 Berkeley, CA 94720-3160 U.S.A.  
-[Contact me](mailto:zachanna@berkeley.edu)  
+[Email me](mailto:zachanna@berkeley.edu)  
 
 ### Education
-* Ph.D., Integrative Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2017  
-  
-* BS, Molecular Environmental Biology, University of California, Berkeley, Berkeley, California, U.S.A. 2008  
+* Ph.D., Integrative Biology, University of California, Berkeley 2017  
+* B.S., Molecular Environmental Biology, University of California, Berkeley 2008  
 
 ### Publications and Datasets
-* **Hanna ZR**, Henderson JB, Sellas AB, Fuchs J, Bowie RCK, Dumbacher JP. 2017. Complete mitochondrial genome sequences of the northern spotted owl (_Strix occidentalis caurina_) and the barred owl (_Strix varia_; Aves: Strigiformes: Strigidae) confirm the presence of a duplicated control region. _PeerJ_ 5:e3901. DOI: 10.7717/peerj.3901. [Available here](https://doi.org/10.7717/peerj.3901){:target="_blank"} or [Download PDF](../files/Hanna_et_al_2017_Complete_mitochondrial_genomes_spotted_barred_owls.pdf){:target="_blank"} and [Supplementary Article PDF](../files/Hanna_et_al_2017_Complete_mitochondrial_genomes_spotted_barred_owls_Supp.pdf){:target="_blank"}
+* **Hanna ZR**, Henderson JB, Sellas AB, Fuchs J, Bowie RCK, Dumbacher JP. 2017. Complete mitochondrial genome sequences of the northern spotted owl (_Strix occidentalis caurina_) and the barred owl (_Strix varia_; Aves: Strigiformes: Strigidae) confirm the presence of a duplicated control region. _PeerJ_ 5:e3901. DOI: 10.7717/peerj.3901. [Available here](https://doi.org/10.7717/peerj.3901){:target="_blank"} or [Download PDF + Supplementary Article](../files/Hanna_et_al_2017_Complete_mitochondrial_genomes_spotted_barred_owls.pdf){:target="_blank"}
   
-* **Hanna ZR**, Henderson JB, Wall JD, Emerling CA, Fuchs J, Runckel C, Mindell DP, Bowie RCK, DeRisi JL, Dumbacher JP. 2017. Northern spotted owl (_Strix occidentalis caurina_) genome: divergence with the barred owl (_Strix varia_) and characterization of light-associated genes. _Genome Biology and Evolution_ 9(10):2522-2545. DOI: 10.1093/gbe/evx158. [Available here](https://academic.oup.com/gbe/article-abstract/doi/10.1093/gbe/evx158/4091607/Northern-spotted-owl-Strix-occidentalis-caurina){:target="_blank"} or [Download PDF](../files/Hanna_et_al_2017_Northern_Spotted_Owl_genome.pdf){:target="_blank"} and [Supplementary Article PDF](../files/Hanna_et_al_2017_Northern_Spotted_Owl_genome_Supp.pdf){:target="_blank"}
+* **Hanna ZR**, Henderson JB, Wall JD, Emerling CA, Fuchs J, Runckel C, Mindell DP, Bowie RCK, DeRisi JL, Dumbacher JP. 2017. Northern spotted owl (_Strix occidentalis caurina_) genome: divergence with the barred owl (_Strix varia_) and characterization of light-associated genes. _Genome Biology and Evolution_ 9(10):2522-2545. DOI: 10.1093/gbe/evx158. [Available here](https://academic.oup.com/gbe/article-abstract/doi/10.1093/gbe/evx158/4091607/Northern-spotted-owl-Strix-occidentalis-caurina){:target="_blank"} or [Download PDF + Supplementary Article](../files/Hanna_et_al_2017_Northern_Spotted_Owl_genome.pdf){:target="_blank"}
   
 * Bowie RCK, Feldheim KA, **Hanna ZR**, Sellas AB, Cicero C. 2017. Development of Polymorphic Tetranucleotide Microsatellite Markers for New World Warblers (Aves: Passeriformes: Parulidae) with Broad Cross-species Utility. *The Wilson Journal of Ornithology* 129:401–407. DOI: 10.1676/16-110.1. [Available here](http://www.bioone.org/doi/abs/10.1676/16-110.1){:target="_blank"} or [Download PDF](../files/Bowie_et_al_2017_Development_of_Polymorphic_Tetranucleotide_Microsa.pdf){:target="_blank"}
   
@@ -37,11 +36,13 @@ Berkeley, CA 94720-3160 U.S.A.
   
 * **Hanna ZR**, Bowie RCK, Cicero C. 2008. Phylogeography of the Orange-crowned Warbler (*Vermivora celata*). Presented by Z.R. Hanna at the American Ornithologists Union conference, Portland, Oregon
 
-### Professional Employment
+### Teaching Experience
 * Graduate Student Instructor, Ornithology Laboratory and Field (IB 174), UC Berkeley. January-May 2017  	
 * Graduate Student Instructor, Natural History of the Vertebrates Laboratory and Field (IB 104), UC Berkeley. January-May 2016  
-* Graduate Student Curatorial Assistant, Museum of Vertebrate Zoology, UC Berkeley. August-December 2015  
 * Graduate Student Instructor, Introduction to Biology Laboratory (Bio 1B), UC Berkeley. January-May 2012  
+
+### Professional Employment
+* Graduate Student Curatorial Assistant, Museum of Vertebrate Zoology, UC Berkeley. August-December 2015  
 * Laboratory and Field Research Technician, California Academy of Sciences. September 2010 – December 2011  
 * Laboratory and Field Research Technician, Museum of Vertebrate Zoology. May 2006 – January 2010  
 * Laboratory Research Technician, Department of Environmental Science, Policy, and Management, UC Berkeley. 2005
