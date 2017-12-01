@@ -30,19 +30,19 @@ Berkeley, CA 94720-3160 U.S.A.
 ### Electronic Resources and Datasets
 * **Hanna ZR**, Henderson JB, Wall JD, Emerling CA, Fuchs J, Runckel C, Mindell DP, Bowie RCK, DeRisi JL, Dumbacher JP. 2017. Supplemental dataset for Northern Spotted Owl (*Strix occidentalis caurina*) genome assembly version 1.0. Zenodo. DOI: [10.5281/zenodo.822859.](http://doi.org/10.5281/zenodo.822859){:target="_blank"}
   
-* **Hanna ZR**, Sellas AB. 2017. hyRADccg Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.268048.](http://doi.org/10.5281/zenodo.268048){:target="_blank"}
+* **Hanna ZR**, Sellas AB. 2017. hyRADccg Version 1.0.0. Zenodo. DOI: [10.5281/zenodo.268048.](http://doi.org/10.5281/zenodo.268048){:target="_blank"}
   
-* Henderson JB, **Hanna ZR**. 2016. scafSeqContigInfo. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163748.](http://doi.org/10.5281/zenodo.163748){:target="_blank"}
+* Henderson JB, **Hanna ZR**. 2016. scafSeqContigInfo. Version 1.0.0. Zenodo. DOI: [10.5281/zenodo.163748.](http://doi.org/10.5281/zenodo.163748){:target="_blank"}
   
-* Henderson JB, **Hanna ZR**. 2016. BLATq. Version 1.0.2. Zenodo. [DOI: 10.5281/zenodo.61136.](http://doi.org/10.5281/zenodo.61136){:target="_blank"}
+* Henderson JB, **Hanna ZR**. 2016. BLATq. Version 1.0.2. Zenodo. DOI: [10.5281/zenodo.61136.](http://doi.org/10.5281/zenodo.61136){:target="_blank"}
   
-* Henderson JB, **Hanna ZR**. 2016. excerptByIDs. Version 1.0.2. [Zenodo. DOI: 10.5281/zenodo.61134.](http://doi.org/10.5281/zenodo.61134){:target="_blank"}
+* Henderson JB, **Hanna ZR**. 2016. excerptByIDs. Version 1.0.2. Zenodo. DOI: [10.5281/zenodo.61134.](http://doi.org/10.5281/zenodo.61134){:target="_blank"}
   
-* Henderson JB, **Hanna ZR**. 2016. dupchk. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163722.](http://doi.org/10.5281/zenodo.163722){:target="_blank"}
+* Henderson JB, **Hanna ZR**. 2016. dupchk. Version 1.0.0. Zenodo. DOI: [10.5281/zenodo.163722.](http://doi.org/10.5281/zenodo.163722){:target="_blank"}
   
-* Henderson JB, **Hanna ZR**. 2016. GItaxidIsVert. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163737.](http://doi.org/10.5281/zenodo.163737){:target="_blank"}
+* Henderson JB, **Hanna ZR**. 2016. GItaxidIsVert. Version 1.0.0. Zenodo. DOI: [10.5281/zenodo.163737.](http://doi.org/10.5281/zenodo.163737){:target="_blank"}
   
-* Henderson JB, **Hanna ZR**. 2016. scafN50. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163739.](http://doi.org/10.5281/zenodo.163739){:target="_blank"}
+* Henderson JB, **Hanna ZR**. 2016. scafN50. Version 1.0.0. Zenodo. DOI: [10.5281/zenodo.163739.](http://doi.org/10.5281/zenodo.163739){:target="_blank"}
 
 ### Presentations
 * **Hanna ZR**, Dumbacher JP, Wall JD, Bowie RCK. 2017 Genomics of the Spotted and Barred Owls. Presented by Z.R. Hanna at the MVZ Lunch Seminar - Topics in Evolutionary Biology, Museum of Vertebrate Zoology, UC Berkeley, California
