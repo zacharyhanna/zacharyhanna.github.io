@@ -7,13 +7,13 @@ nav ul {
     font-size: 1.5em;
 }
 nav {
-    display: inline-block
+    width: 100%;
 }
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    display: inline-block;
+    display: inline;
 }
 nav ul li, footer ul li {
     margin-right: 20px;
@@ -26,7 +26,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    display: inline-block;
+    width: 100%;
+    display: inline;
     font-size: 2em;
 }
 p {
