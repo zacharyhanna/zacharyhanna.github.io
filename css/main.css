@@ -30,9 +30,11 @@ h1 {
 }
 p {
     color: #333;
+    font-family:'Verdana', 'Arial', 'Helvetica', 'Sans-Serif';
 }
 li {
     color: #333;
+    font-family:'Verdana', 'Arial', 'Helvetica', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
