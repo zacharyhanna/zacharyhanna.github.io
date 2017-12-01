@@ -8,6 +8,7 @@ header {
 nav {
     display:flex;
     float:right;
+    text-align: center;
 }
 nav ul, footer ul {
     display: flex;
