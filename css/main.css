@@ -8,26 +8,30 @@ nav ul {
 }
 nav {
     width: 100%;
+    text-align:center;
 }
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    display: inline;
+    overflow:hidden;
 }
 nav ul li, footer ul li {
     margin-right: 20px;
+    display:inline-block;
 }
 a {
     text-decoration: none;
     color: #0000ff;
+    text-align:center;
+    display:block;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     width: 100%;
-    display: inline;
+    text-align:center;
     font-size: 2em;
 }
 p {
