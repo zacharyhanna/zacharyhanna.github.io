@@ -6,6 +6,9 @@ body {
 nav ul {
     font-size: 1.5em;
 }
+nav {
+    display: inline-block
+}
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
