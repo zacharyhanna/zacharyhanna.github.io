@@ -14,7 +14,7 @@ Berkeley, CA 94720-3160 U.S.A.
 * Ph.D., Integrative Biology, University of California, Berkeley 2017  
 * B.S., Molecular Environmental Biology, University of California, Berkeley 2008  
 
-### Publications and Datasets
+### Publications
 * **Hanna ZR**, Henderson JB, Sellas AB, Fuchs J, Bowie RCK, Dumbacher JP. 2017. Complete mitochondrial genome sequences of the northern spotted owl (_Strix occidentalis caurina_) and the barred owl (_Strix varia_; Aves: Strigiformes: Strigidae) confirm the presence of a duplicated control region. _PeerJ_ 5:e3901. DOI: 10.7717/peerj.3901. [Available here](https://doi.org/10.7717/peerj.3901){:target="_blank"} or [Download PDF](../files/Hanna_et_al_2017_Complete_mitochondrial_genomes_spotted_barred_owls.pdf){:target="_blank"}
   
 * **Hanna ZR**, Henderson JB, Wall JD, Emerling CA, Fuchs J, Runckel C, Mindell DP, Bowie RCK, DeRisi JL, Dumbacher JP. 2017. Northern spotted owl (_Strix occidentalis caurina_) genome: divergence with the barred owl (_Strix varia_) and characterization of light-associated genes. _Genome Biology and Evolution_ 9(10):2522-2545. DOI: 10.1093/gbe/evx158. [Available here](https://academic.oup.com/gbe/article-abstract/doi/10.1093/gbe/evx158/4091607/Northern-spotted-owl-Strix-occidentalis-caurina){:target="_blank"} or [Download PDF](../files/Hanna_et_al_2017_Northern_Spotted_Owl_genome.pdf){:target="_blank"}
@@ -26,6 +26,23 @@ Berkeley, CA 94720-3160 U.S.A.
 * **Hanna ZR**, Ortiz-Ramírez MF, Ríos-Muñoz CA, Cayetano-Rosas H, Bowie RCK, Navarro-Sigüenza AG. 2016. Phylogenetic and morphologic evidence confirm the presence of a new montane cloud forest associated bird species in Mexico, the Mountain Elaenia (*Elaenia frantzii*; Aves: Passeriformes: Tyrannidae). *PeerJ* 4:e1598. DOI: 10.7717/peerj.1598. [Available here](https://peerj.com/articles/1598/){:target="_blank"} or [Download PDF](../files/Hanna_et_al_2016_Phylogenetic_and_morphologic_evidence_confirm.pdf){:target="_blank"}
   
 * **Hanna ZR**, Runckel C, Fuchs J, DeRisi JL, Mindell DP, Hemert CV, Handel CM, Dumbacher JP. 2015. Isolation of a Complete Circular Virus Genome Sequence from an Alaskan Black-Capped Chickadee (*Poecile atricapillus*) Gastrointestinal Tract Sample. *Genome Announcements* 3:e01081-15. DOI: 10.1128/genomeA.01081-15. [Available here](http://genomea.asm.org/content/3/5/e01081-15){:target="_blank"} or [Download PDF](../files/Hanna_et_al_2015_Isolation_of_a_Complete_Circular_Virus_Genome_Sequence.pdf){:target="_blank"}
+
+### Electronic Resources and Datasets
+* **Hanna ZR**, Henderson JB, Wall JD, Emerling CA, Fuchs J, Runckel C, Mindell DP, Bowie RCK, DeRisi JL, Dumbacher JP. 2017. Supplemental dataset for Northern Spotted Owl (*Strix occidentalis caurina*) genome assembly version 1.0. Zenodo. DOI: [10.5281/zenodo.822859.](http://doi.org/10.5281/zenodo.822859){:target="_blank"}
+  
+* **Hanna ZR**, Sellas AB. 2017. hyRADccg Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.268048.](http://doi.org/10.5281/zenodo.268048){:target="_blank"}
+  
+* Henderson JB, **Hanna ZR**. 2016. scafSeqContigInfo. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163748.](http://doi.org/10.5281/zenodo.163748){:target="_blank"}
+  
+* Henderson JB, **Hanna ZR**. 2016. BLATq. Version 1.0.2. Zenodo. [DOI: 10.5281/zenodo.61136.](http://doi.org/10.5281/zenodo.61136){:target="_blank"}
+  
+* Henderson JB, **Hanna ZR**. 2016. excerptByIDs. Version 1.0.2. [Zenodo. DOI: 10.5281/zenodo.61134.](http://doi.org/10.5281/zenodo.61134){:target="_blank"}
+  
+* Henderson JB, **Hanna ZR**. 2016. dupchk. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163722.](http://doi.org/10.5281/zenodo.163722){:target="_blank"}
+  
+* Henderson JB, **Hanna ZR**. 2016. GItaxidIsVert. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163737.](http://doi.org/10.5281/zenodo.163737){:target="_blank"}
+  
+* Henderson JB, **Hanna ZR**. 2016. scafN50. Version 1.0.0. Zenodo. [DOI: 10.5281/zenodo.163739.](http://doi.org/10.5281/zenodo.163739){:target="_blank"}
 
 ### Presentations
 * **Hanna ZR**, Dumbacher JP, Wall JD, Bowie RCK. 2017 Genomics of the Spotted and Barred Owls. Presented by Z.R. Hanna at the MVZ Lunch Seminar - Topics in Evolutionary Biology, Museum of Vertebrate Zoology, UC Berkeley, California
