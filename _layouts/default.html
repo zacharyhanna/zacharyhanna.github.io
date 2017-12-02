@@ -1,36 +1,45 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			{% seo %}
-		</head>
-		<body>
-			<header>
-				<h1>
-					<a href="/">Zachary R. Hanna</a>
-				</h1>
-				<nav>
-	    			<ul>
-					<li><a href="/">Home</a></li>
-		        		<!--<li><a href="/about">About</a></li>-->
-					<li><a href="/pubs">Publications</a></li>
-	        			<li><a href="/cv">CV</a></li>
-	        			<!--<li><a href="/blog">Blog</a></li>-->
-	    			</ul>
-				</nav>
-			</header>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:zachanna@berkeley.edu">Email</a></li>
-	        		<li><a href="https://github.com/zrhanna">github.com/zrhanna</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <a href="/" class="btn">Home</a>
+      <a href="/pubs" class="btn">Publications</a>
+      <a href="/cv" class="btn">CV</a>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="mailto:zachanna@berkeley.edu">Email</a>.</span>
+        <span class="site-footer-owner"><a href="https://github.com/zrhanna" target="_blank">github.com/zrhanna</a>.</span>
+        <p></p>
+        <p></p>
+        <span class="site-footer-credits">I generated this site with <a href="https://pages.github.com">GitHub Pages</a> and a modified <a href="https://github.com/pages-themes/cayman">cayman</a> theme.</span>
+      </footer>
+    </section>
+
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
