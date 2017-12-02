@@ -1,9 +1,10 @@
 title: Zachary R. Hanna
-email: zachanna@berkeley.edu
-url: "https://zrhanna.github.io"
-name: Zachary R. Hanna
+#email: zachanna@berkeley.edu
+#url: "https://zrhanna.github.io"
+#name: Zachary R. Hanna
 permalink: /blog/:year/:month/:day/:title
 # Build settings
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
+#markdown: kramdown
+theme: jekyll-theme-cayman
+#plugins:
+#  - jekyll-seo-tag
