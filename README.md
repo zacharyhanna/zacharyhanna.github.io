@@ -1,2 +1,2 @@
-# zrhanna.github.io
+# zacharyhanna.github.io
 Website for Zachary R. Hanna
