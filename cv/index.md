@@ -3,6 +3,8 @@ layout: cv
 title: CV - Zachary R. Hanna
 ---
 ### Presentations
+* **Hanna ZR** 2018. Extent of Introgression Detected in Spotted Owls and Western Barred Owls. Invited presentation at the "Extinction or management of owls: the dilemma of the barred owl invasion in California" symposium at the Western Section of the Wildlife Society annual meeting, Santa Rosa, California
+  
 * **Hanna ZR**, Dumbacher JP, Wall JD, Bowie RCK. 2017. Genomics of the Spotted and Barred Owls. Presented by Z.R. Hanna at the MVZ Lunch Seminar - Topics in Evolutionary Biology, Museum of Vertebrate Zoology, UC Berkeley, California
   
 * **Hanna ZR**, Dumbacher JP, Wall J. 2016. Extent of Introgression Detected in Spotted Owls and Western Barred Owls. Presented by Z.R. Hanna at the North American Ornithological Conference, Washington, D.C.
