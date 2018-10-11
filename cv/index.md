@@ -19,6 +19,7 @@ title: CV - Zachary R. Hanna
 * Graduate Student Instructor, Introduction to Biology Laboratory (Bio 1B), UC Berkeley. January-May 2012  
 
 ### Professional Employment
+* Postdoctoral Researcher, University of California, San Francisco. January-October 2018  
 * Graduate Student Curatorial Assistant, Museum of Vertebrate Zoology, UC Berkeley. August-December 2015  
 * Laboratory and Field Research Technician, California Academy of Sciences. September 2010 – December 2011  
 * Laboratory and Field Research Technician, Museum of Vertebrate Zoology. May 2006 – January 2010  
